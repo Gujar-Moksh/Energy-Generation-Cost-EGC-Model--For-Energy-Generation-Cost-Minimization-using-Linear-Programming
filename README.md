@@ -1,0 +1,1 @@
+# Energy-Generation-Cost-EGC-Model--For-Energy-Generation-Cost-Minimization-using-Linear-Programming
